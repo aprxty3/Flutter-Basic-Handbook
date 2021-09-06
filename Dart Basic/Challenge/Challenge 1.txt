@@ -1,0 +1,22 @@
+1. Buatlah variabel dari data dibawah sesuai dengan tipe datanya
+2. Buatlah sebuah map yang berisikan data diabawah menggunakan variabel yang telah dibuat
+3. Print map tersebut
+
+Data Restoran
+-------------
+
+Nama : (Nama Restomu)
+Tahun didirikan : 2003
+Pemiliki : (Namamu)
+Alamat : (Alamat kotamu)
+Telepon : (Nomer hpmu)
+Status Buka : Buka (Buka/Tutup)
+Daftar Makanan :
+		-kepiting rebus (40k)
+		-nasi goreng (20k)
+		-udang asam manis (50k)
+		-sate cumi (30k)
+daftar minuman :
+		-es jeruk (5k)
+		-es kelapa (10k)
+		-es teh (3k)
