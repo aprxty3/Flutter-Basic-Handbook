@@ -1,0 +1,21 @@
+#1
+Sistem penilaian hasil belajar (0-100)
+91-100  : Sangat baik
+81-90   : baik
+71-80   : Cukup
+61-70   : Kurang
+0-60    : Sangat Kurang
+
+*Apabila nilai < 0 atau > 100 : Nilai Invalid
+Buatlah decision making sistem penilaian diatas menggunakan if else dan ternary operator
+
+#2
+Sistem penilaian makanan (A-E)
+A   : Sangat Enak
+B   : Enak
+C   : Cukup
+D   : Kurang
+E   : Belajar Masak gih
+
+*Selain nilai diatas adalah nilai Invalid
+Buatlah decision making sistem penilaian makanan diatas menggunakan switch case
