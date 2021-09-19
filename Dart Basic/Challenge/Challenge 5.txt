@@ -1,0 +1,14 @@
+1. Buatlah class E-Wallet dengan ketentua sebagai berikut :
+Properties :
+nama pemilik
+saldo
+mutasi
+
+Methods :
+getter setter untuk setiap Properties
+transfer
+request
+
+Books are a cheap investment with a potentially infinite ROI (Return On Investment).
+A world class expert might work for 20+ years to figure something out, completelly devoting his entire life to answering one particular question.
+we can possess all of his knowledge on that subject in a +- 100-200 pages book.
